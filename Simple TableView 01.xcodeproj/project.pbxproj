@@ -15,6 +15,8 @@
 		142846FE2099685E00266784 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142846FB2099685D00266784 /* 3.jpg */; };
 		142846FF2099685E00266784 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142846FC2099685D00266784 /* 1.jpg */; };
 		142847002099685E00266784 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142846FD2099685E00266784 /* 2.jpg */; };
+		149390BF209971FD0077562A /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 149390BD209971FC0077562A /* 5.jpg */; };
+		149390C0209971FD0077562A /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 149390BE209971FD0077562A /* 4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		142846FB2099685D00266784 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 		142846FC2099685D00266784 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 		142846FD2099685E00266784 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		149390BD209971FC0077562A /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		149390BE209971FD0077562A /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 		1407011B2099589900D260F7 /* Simple TableView 01 */ = {
 			isa = PBXGroup;
 			children = (
+				149390BE209971FD0077562A /* 4.jpg */,
+				149390BD209971FC0077562A /* 5.jpg */,
 				142846FC2099685D00266784 /* 1.jpg */,
 				142846FD2099685E00266784 /* 2.jpg */,
 				142846FB2099685D00266784 /* 3.jpg */,
@@ -132,10 +138,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				149390C0209971FD0077562A /* 4.jpg in Resources */,
 				142847002099685E00266784 /* 2.jpg in Resources */,
 				140701272099589900D260F7 /* LaunchScreen.storyboard in Resources */,
 				140701242099589900D260F7 /* Assets.xcassets in Resources */,
 				140701222099589900D260F7 /* Main.storyboard in Resources */,
+				149390BF209971FD0077562A /* 5.jpg in Resources */,
 				142846FE2099685E00266784 /* 3.jpg in Resources */,
 				142846FF2099685E00266784 /* 1.jpg in Resources */,
 			);
